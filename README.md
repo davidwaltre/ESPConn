@@ -11,11 +11,9 @@ You'll also need the [ESP8266 Ping](https://github.com/jeroenst/ESP8266Ping) lib
 
 Copy the contents of the /src/ folder directly to the folder of your Arduino IDE project.
 
-Then, if not yet done, you have to include all dependenies and the ESPConn library:
+Then, you have to include the ESPConn library:
 
 ```Arduino
-#include <ESP8266WiFi.h>
-#include "ESP8266Ping.h"
 #include "ESPConn.h"
 ```
 
