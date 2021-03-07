@@ -15,7 +15,7 @@ Then, if not yet done, you have to include all dependenies and the ESPConn libra
 
 ```Arduino
 #include <ESP8266WiFi.h>
-#include "ESP8266Ping.h" //only do it that way if you use the copied version
+#include "ESP8266Ping.h"
 #include "ESPConn.h"
 ```
 
