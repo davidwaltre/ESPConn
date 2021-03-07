@@ -28,7 +28,7 @@ Using the library is easy, to check the connection, use:
 ```Arduino
 checkConnection(ip, "YOUR_SSID", "YOUR_PASS"); 
 ```
-And replace "YOUR_SSID" and "YOUR_PASS" with your WiFi credentials.
+And replace "YOUR_SSID" and "YOUR_PASS" with your WiFi credentials. In case of no connection, it automatically reconnects to the WiFi.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
