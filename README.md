@@ -1,4 +1,4 @@
-![Code size](https://img.shields.io/github/languages/code-size/davidwaltre/ESPConn)
+![Code size](https://img.shields.io/github/languages/code-size/davidwaltre/ESPConn) ![License](https://img.shields.io/github/license/davidwaltre/ESPConn)
 
 # About
 
