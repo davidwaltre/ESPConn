@@ -1,3 +1,5 @@
+![Code size](https://img.shields.io/github/languages/code-size/davidwaltre/ESPConn)
+
 # About
 
 ESPConn is a simple library to check the connection to and automatically reconnect to your WiFi. Include in your Arduino IDE project.
